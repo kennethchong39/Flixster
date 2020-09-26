@@ -15,6 +15,7 @@
 		7E325978251CFF1600D181C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E325976251CFF1600D181C3 /* LaunchScreen.storyboard */; };
 		7E325983251CFF1600D181C3 /* FlixsterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E325982251CFF1600D181C3 /* FlixsterTests.swift */; };
 		7E32598E251CFF1600D181C3 /* FlixsterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E32598D251CFF1600D181C3 /* FlixsterUITests.swift */; };
+		7E4E873F251FB75300EA52E4 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E4E873E251FB75300EA52E4 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		7E325989251CFF1600D181C3 /* FlixsterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlixsterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E32598D251CFF1600D181C3 /* FlixsterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlixsterUITests.swift; sourceTree = "<group>"; };
 		7E32598F251CFF1600D181C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7E4E873E251FB75300EA52E4 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				7E325974251CFF1600D181C3 /* Assets.xcassets */,
 				7E325976251CFF1600D181C3 /* LaunchScreen.storyboard */,
 				7E325979251CFF1600D181C3 /* Info.plist */,
+				7E4E873E251FB75300EA52E4 /* TableViewCell.swift */,
 			);
 			path = Flixster;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7E325970251CFF1500D181C3 /* ViewController.swift in Sources */,
+				7E4E873F251FB75300EA52E4 /* TableViewCell.swift in Sources */,
 				7E32596C251CFF1500D181C3 /* AppDelegate.swift in Sources */,
 				7E32596E251CFF1500D181C3 /* SceneDelegate.swift in Sources */,
 			);
